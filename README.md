@@ -1,7 +1,7 @@
 
 # Atividade voltada para a produçao de códido em javascript e Node.js
 
-Este projeto é um inicio sobre a linguagem javascript foi usado também o NODE para auxiliar na nocodigocriado com o intuito de praticar habilidades de desenvolvimento front-end. O foco está na aprendizagem sobre o tema novo.
+Este projeto é um inicio sobre a linguagem javascript foi usado também o NODE para auxiliar no codigo criado com o intuito de praticar habilidades de desenvolvimento front-end. O foco está na aprendizagem sobre o tema novo.
 
 
 ## Rodando localmente
